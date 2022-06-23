@@ -1,0 +1,52 @@
+.text-right {
+    text-align: right!important;
+    margin-left: -135px;
+}
+
+/* #title {
+    flex: 0 0 50%;
+    padding-left: 33px;
+} */
+
+.nav-item a{
+    font-family: cursive;
+    color: gray;
+    background: #f08781;
+    padding: 4px 25px;
+    border-radius: 20px;
+    margin: 0 10px;
+    text-transform: uppercase;
+}
+
+#btn-submit{
+    font-family: cursive;
+    color: gray;
+    background: #f08781;
+    border-radius: 20px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.table thead tr{
+    background: black;
+    color: white;
+}
+
+#btn-update{
+    font-family: cursive;
+    color: gray;
+    background: #f08781;
+    border-radius: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#app{
+    font-family: cursive;
+}
+
+#all-tasks{
+    background: black;
+    color: white;
+}
